@@ -1,0 +1,16 @@
+table{
+	width: 50%;
+	right: 30%
+}
+
+th,td{
+	border: 2px groove green
+}
+
+td{
+	background-color: grey
+}
+
+.mixte{
+	text-align: center
+}
